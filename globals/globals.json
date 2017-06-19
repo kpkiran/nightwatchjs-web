@@ -1,0 +1,8 @@
+{
+  "default" : {
+    "title" : "xxxxx"
+  },
+  "test_env" : {
+    "myGlobal" : 2
+  }
+}

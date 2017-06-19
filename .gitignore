@@ -1,0 +1,16 @@
+/.config
+/coverage/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
+
+/apps/
+/tmp/
+/examples/
+/reports/
+
+.idea/
+.DS_Store
+node_modules
+npm-debug.log
+selenium-debug.log
